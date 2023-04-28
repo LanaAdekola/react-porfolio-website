@@ -1,6 +1,6 @@
 header{
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 5rem;
     overflow: hidden;
 }
 
@@ -65,9 +65,7 @@ header{
 
 /* ============MEDIA QUERIES (Medium DEVICES)========== */
   @media screen and (max-width: 1024px){
-    header{
-        height: 68vh;
-    }
+   
   }
 /* ============MEDIA QUERIES (small DEVICES)========== */
   @media screen and (max-width: 600px){
