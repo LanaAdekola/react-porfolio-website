@@ -3,8 +3,8 @@ import './contact.css'
 import {MdEmail} from 'react-icons/md'
 import {RiMessengerFill} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
-import { useRef } from 'react';
-import emailjs from 'emailjs-com';
+import { useRef } from 'react'
+import emailjs from 'emailjs-com'
 
 
 
