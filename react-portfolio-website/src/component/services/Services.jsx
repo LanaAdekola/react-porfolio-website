@@ -9,7 +9,7 @@ const Services = () => {
       <h2>Services</h2>
 
       <div className="container services__container">
-        <article className='service'>
+      <article className='service'>
           <div className="service__head">
             <h3>Frontend development</h3>
           </div>
@@ -17,23 +17,31 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Optimizing the user experience.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Using HTML, CSS, JavaScript and React js to bring concepts to life.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Developing and maintaining the user interface.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Implementing design on mobile websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Managing software workflow.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Fixing bugs and testing for usability.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Creating tools that improve site interaction regardless of the browser.</p>
             </li>
           </ul>
         </article>
@@ -46,23 +54,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Website & Social Engagement Videos</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Blog Writing Services</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Video Production/Cinematography</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Paid Content Asset Promotion</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Video Marketing Services</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Video Editing</p>
             </li>
           </ul>
         </article>

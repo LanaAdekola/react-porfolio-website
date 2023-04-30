@@ -1,10 +1,10 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio7.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio6.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG2 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/portfolio2.jpg'
+import IMG4 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio6.jpg'
 
 
 
@@ -18,28 +18,28 @@ const data = [
   },
   {
     id: 2,
-    image: IMG3,
+    image: IMG2,
     title: 'Twitter App with Vanilla JavaScript',
     github: 'https://github.com/LanaAdekola/twitter-clone',
     demo: 'https://glittering-lamington-a8d76c.netlify.app/'
   },
   {
     id: 3,
-    image: IMG2,
+    image: IMG3,
     title: 'Rest API Project',
     github: 'https://github.com/LanaAdekola/Rest-Api-test',
     demo: 'https://euphonious-parfait-825aed.netlify.app/'
   },
   {
     id: 4,
-    image: IMG5,
+    image: IMG4,
     title: 'My Portfolio Website',
     github: 'https://github.com/LanaAdekola/react-porfolio-website',
     demo: '#'
   },
   {
     id: 5,
-    image: IMG4,
+    image: IMG5,
     title: 'E-commerce',
     github: '#',
     demo: '#'

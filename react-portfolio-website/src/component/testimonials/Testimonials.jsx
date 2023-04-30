@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/AVTR1.png'
+import AVTR2 from '../../assets/AVTR2.png'
+import AVTR3 from '../../assets/AVTR3.png'
+import AVTR4 from '../../assets/AVRT4.jpg'
 
 // import Swiper core and required modules
 import {Pagination, } from 'swiper';
@@ -20,23 +20,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    names: 'Honestmindsart',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima veniam inventore neque recusandae quae vero dolorum commodi. Veritatis, debitis enim alias architecto delectus nobis non esse dicta aspernatur, nam tempore!'
+    names: 'Babatunde Ogunseye',
+    review: 'Adekola Adelana is no ordinary 25 year old. In one summer, he taught himself to code.'
   },
   {
     avatar: AVTR2,
-    names: 'Babs',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima veniam inventore neque recusandae quae vero dolorum commodi. Veritatis, debitis enim alias architecto delectus nobis non esse dicta aspernatur, nam tempore!'
+    names: 'Anjuwon Tobi',
+    review: 'I have worked with Adelana on two complex projects and in both cases, the work was done on time, and with a high degree of professionalism.'
   },
   {
     avatar: AVTR3,
-    names: 'Honestmindsart',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima veniam inventore neque recusandae quae vero dolorum commodi. Veritatis, debitis enim alias architecto delectus nobis non esse dicta aspernatur, nam tempore!'
+    names: 'Olajoye Femi',
+    review: '...throughout the entire process he is responsive, and willing to work through issues as they arise. It’s obvious he takes tremendous pride in his work, and I would not hesitate to recommend him.'
   },
   {
     avatar: AVTR4,
     names: 'Honestmindsart',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima veniam inventore neque recusandae quae vero dolorum commodi. Veritatis, debitis enim alias architecto delectus nobis non esse dicta aspernatur, nam tempore!'
+    review: 'Across the board, everyone enjoyed working with Adekola. He not only did exceptional work based on the specs we gave him for each project, but he also gave input on how to make the end product even better and cared about how users would engage with the builds. I will be using Adekola again in the future and would highly recommend his services to anyone'
   },
 ]
 

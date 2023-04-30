@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/blackade.png'
+import ME from '../../assets/me-about.jpg'
 import {TbAward} from 'react-icons/tb'
 import {FiUser} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -39,8 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, magnam ipsam quia, at pariatur perferendis eius laudantium, ab architecto autem quam nulla laboriosam eaque cum est exercitationem hic incidunt quis!</p>
-
+          <p>I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product. I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.</p>
           <a href='#contact' className='btn btn-primary'>Lets Talk</a>
         </div>
       </div>

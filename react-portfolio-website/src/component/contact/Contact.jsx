@@ -9,15 +9,14 @@ import emailjs from 'emailjs-com'
 
 
 const Contact = () => {
-
-  const ContactUs = () => {
     const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
     emailjs.sendForm('service_skiolev', 'template_31os4ol', form.current, 'pBQ4WXhGzX1hLSYX9')
-      
+    
+    e.target.reset()
   };
 
 
@@ -58,6 +57,5 @@ const Contact = () => {
       </div>
     </section>
   )
-}
 }
 export default Contact
