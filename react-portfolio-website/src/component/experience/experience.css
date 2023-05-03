@@ -1,6 +1,6 @@
 .experience__container {
    margin: auto;
-   width: 70%;
+   width: 90%;
 }
 
 .experience__container > div {
@@ -60,7 +60,7 @@
     }
 
     .experience__container > div {
-        width: 90%;
+        width: 100%;
         padding: 2rem 1rem;
     }
 }
