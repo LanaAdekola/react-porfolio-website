@@ -26,7 +26,7 @@ const data = [
   {
     avatar: AVTR2,
     names: 'Anjuwon Tobi',
-    review: 'I have worked with Adelana on two complex projects and in both cases, the work was done on time, and with a high degree of professionalism.'
+    review: 'I have worked with Ade on two complex projects and in both cases, the work was done on time, and with a high degree of professionalism.'
   },
   {
     avatar: AVTR3,
